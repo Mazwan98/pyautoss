@@ -14,3 +14,7 @@ Before using the script, the PC must be installed :
 6. Modul Datetime
 
 NB : Install Library / Modul melalui CMD => pip install (namaLib / namaModul)
+
+===================================================================
+Regard's
+Sulistiawan A P
