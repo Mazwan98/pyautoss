@@ -1,3 +1,13 @@
+'''
+
+Desktop App Screenshot Otomatis
+By : Sulistiawan
+Github : Mazwan98
+
+www.Binarybay.site
+
+'''
+
 import datetime
 import tkinter.messagebox as tm
 import tkinter as tki
