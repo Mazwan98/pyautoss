@@ -8,7 +8,7 @@ www.Binarybay.site
 
 '''
 
-import datetime
+import time
 import tkinter.messagebox as tm
 import tkinter as tki
 import pyautogui as pag
@@ -47,11 +47,12 @@ def main():
         time.sleep(var.get())
 
         for i in range(var2.get()):
-
+            
             sesi = str(var3.get())
             today = str(date.today())
             namaSesi = sesi + ' ' + today
-            filename = 'Shot' + ' ' + str(i) + '.png'
+            waktu = time.localtime(time.time())
+            filename = 'Shot' + ' ' + str(i) + ' ' + str(waktu) + '.png'
             folder = r'Screenshot' + '\\' + namaSesi + '\\' + filename
 
             try:

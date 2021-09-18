@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="D:\Project Python\pyautoss\ciscovenv"
+VIRTUAL_ENV="C:\SULISTIAWAN\MY APP\pyautoss\ciscovenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
