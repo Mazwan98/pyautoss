@@ -1,4 +1,6 @@
 # Auto-Screenshot
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMazwan98%2Fpyautoss.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FMazwan98%2Fpyautoss?ref=badge_shield)
+
 Script untuk Screenshot otomatis (PC)
 
 Project Kelas PYT-3C DTS Kemenkominfo | Cisco (Netacad) + Python Institute
@@ -20,3 +22,7 @@ NB : Install Library / Modul melalui CMD => pip install (namaLib / namaModul)
 Regard's
 
 Sulistiawan A P
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMazwan98%2Fpyautoss.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FMazwan98%2Fpyautoss?ref=badge_large)
